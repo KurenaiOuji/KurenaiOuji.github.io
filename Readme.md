@@ -1,3 +1,3 @@
 # Fernando Horta
 
-[linkgithubpages](https://kurenaiouji.github.io)
+[link](https://kurenaiouji.github.io)
